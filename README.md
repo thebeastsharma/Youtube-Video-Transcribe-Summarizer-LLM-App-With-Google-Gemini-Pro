@@ -9,5 +9,5 @@ How It Works
 3) Summarization: The Gemini API processes the extracted content and generates a summary.
 4) Display Summary: The summarized text is then presented to the user.
 
-Contributing
+Contributing: 
 We welcome contributions to improve the YouTube Video Summarizer! If you have suggestions or find issues, please open an issue or submit a pull request on our GitHub repository.
